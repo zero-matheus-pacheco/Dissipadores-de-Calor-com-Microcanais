@@ -1,6 +1,8 @@
 # Dissipadores de Calor com Microcanais
 Simulação Computacional de Diferentes Geometrias para Otimização Térmica
 
+Para visualizar o arquivo completo acesse: [PDF Completo](mpesquisabc_29_15-20.pdf)
+
 ## Resumo do Projeto
 Com o avanço da miniaturização de componentes eletrônicos, o gerenciamento térmico tornou-se um desafio crucial. Este estudo explora o uso de **dissipadores de calor com microcanais**, avaliando diferentes configurações geométricas por meio de simulações no ANSYS Fluent para identificar quais oferecem melhor desempenho térmico.
 
