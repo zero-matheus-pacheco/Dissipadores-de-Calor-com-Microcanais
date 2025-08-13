@@ -31,9 +31,6 @@ Com o avanço da miniaturização de componentes eletrônicos, o gerenciamento t
 
 ### Principais Resultados
 * **Melhor desempenho:** Aletas paralelas contínuas em ambas as condições.
-* **Diferença de temperatura mínima/máxima obtida:**
-  * Primeira condição: 292,47 K / 312,63 K
-  * Segunda condição: 292,89 K / 309,43 K
 * **Maiores temperaturas** localizadas nas regiões laterais e na saída do fluido.
 
 ### Referências
