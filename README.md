@@ -20,23 +20,27 @@ Com o avanço da miniaturização de componentes eletrônicos, o gerenciamento t
   * Fluxo de calor constante na base
   * Paredes laterais adiabáticas
 
-### 📊 Configurações Analisadas
+### Configurações Analisadas
 * Aletas paralelas contínuas
 * Tiras alinhadas
 * Tiras deslocadas
 * Pinos alinhados
 * Pinos deslocados
 
-### 🔍 Principais Resultados
+### Principais Resultados
 * **Melhor desempenho:** Aletas paralelas contínuas em ambas as condições.
 * **Diferença de temperatura mínima/máxima obtida:**
   * Primeira condição: 292,47 K / 312,63 K
   * Segunda condição: 292,89 K / 309,43 K
 * **Maiores temperaturas** localizadas nas regiões laterais e na saída do fluido.
 
-### 📚 Referências
+### Referências
 * Tuckerman, D. B.; Pease, R. F. W. (1981) – High-performance Heat Sinking for VLSI.
 * Venkiteswaran, V. K.; Jasperson, B. A. – Comparative Study of Heat and Fluid Flow Characteristics of Parallel and Offset Strip Fin Micro-channels.
 * Koga, A. A. et al. – Development of Heat Sink Device by Using Topology Optimization.
 
-### 📥 Como Citar
+### Como Citar
+
+Pacheco, M. H.; Lima, C. R. (2021).
+O uso de dissipadores de calor com microcanais na era dos componentes eletrônicos compactos.
+Revista PesquisABC, nº 29, pp. 15–20.
